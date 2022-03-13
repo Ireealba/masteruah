@@ -54,7 +54,15 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ![image-20220313195125869](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313195125869.png)
 
+## 13. Arreglar conflicto
 
+![image-20220313195620763](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313195620763.png)
 
+## 14. Borrar rama
 
+![image-20220313200406969](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313200406969.png)
+
+## 15. Listado de cambios
+
+![image-20220313200644797](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313200644797.png)
 
