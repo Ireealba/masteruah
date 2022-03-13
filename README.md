@@ -30,5 +30,15 @@ git clone https://github.com/Ireealba/masteruah.git
 
 
 
-## 7. 
+## 7. Crear una rama v0.2
+
+![image-20220313193008410](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193008410.png)
+
+## 8. Añadir fichero 2.txt
+
+![image-20220313193149167](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193149167.png)
+
+
+
+
 
