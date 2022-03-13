@@ -26,5 +26,9 @@ git clone https://github.com/Ireealba/masteruah.git
 
 
 
+![image-20220313183254935](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313183254935.png)
 
+
+
+## 7. 
 
