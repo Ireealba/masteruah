@@ -38,6 +38,14 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ![image-20220313193149167](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193149167.png)
 
+## 9. Crear rama remota v0.2
+
+![image-20220313193418539](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193418539.png)
+
+## 10. Merge directo
+
+![image-20220313193936330](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193936330.png)
+
 
 
 
