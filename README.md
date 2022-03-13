@@ -46,6 +46,14 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ![image-20220313193936330](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193936330.png)
 
+## 11. Merge con conflicto
+
+![image-20220313194942245](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313194942245.png)
+
+## 12. Listado de ramas
+
+![image-20220313195125869](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313195125869.png)
+
 
 
 
