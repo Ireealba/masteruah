@@ -96,3 +96,19 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ![image-20220314114647990](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314114647990.png)
 
+## 22. Crear un index.html
+
+![image-20220314115708717](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314115708717.png)
+
+## 23. Crear Pull-requests
+
+![image-20220314122842572](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314122842572.png)
+
+![image-20220314122923803](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314122923803.png)
+
+## 24. Gestionar Pull-request
+
+![image-20220314123045490](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314123045490.png)
+
+![image-20220314123118208](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314123118208.png)
+
