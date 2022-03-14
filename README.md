@@ -86,3 +86,13 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ![image-20220314112832750](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314112832750.png)
 
+## 20. Crear una organización
+
+![image-20220314113533478](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314113533478.png)
+
+## 21. Crear equipos
+
+![image-20220314114254465](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314114254465.png)
+
+![image-20220314114647990](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314114647990.png)
+
