@@ -6,7 +6,7 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ## 2. Commit inicial
 
-![commit inicial](img/1.png)
+![commit inicial](img/1.PNG)
 
 ## 3. Push inicial
 
