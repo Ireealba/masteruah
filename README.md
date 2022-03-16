@@ -6,73 +6,75 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ## 2. Commit inicial
 
-![image-20220309202106235](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220309202106235.png)
+![commit inicial](img/1.png)
 
 ## 3. Push inicial
 
-![image-20220309202310894](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220309202310894.png)
+![push inicial](img/2.png)
 
 ## 4. Añadir fichero 1.txt
 
-![image-20220309202453229](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220309202453229.png)
+![anadir fichero](img/3.png)
 
 ## 5. Crear el tag v0.1
 
-![image-20220309203025040](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220309203025040.png)
+![crear tag](img/4.png)
 
 ## 6. Subir el tag v0.1
 
-![image-20220309203909954](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220309203909954.png)
+![subir tag](img/5.png)
 
 
 
-![image-20220313183254935](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313183254935.png)
+![subir tag](img/6.png)
 
 
 
 ## 7. Crear una rama v0.2
 
-![image-20220313193008410](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193008410.png)
+![crear una rama](img/7.png)
 
 ## 8. Añadir fichero 2.txt
 
-![image-20220313193149167](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193149167.png)
+![anadir fichero](img/8.png)
 
 ## 9. Crear rama remota v0.2
 
-![image-20220313193418539](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193418539.png)
+![crear rama remota](img/9.png)
+
+![crear rama remota](img/10.png)
 
 ## 10. Merge directo
 
-![image-20220313193936330](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313193936330.png)
+![merge directo](img/11.png)
 
 ## 11. Merge con conflicto
 
-![image-20220313194942245](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313194942245.png)
+![merge con conflicto](img/12.png)
 
 ## 12. Listado de ramas
 
-![image-20220313195125869](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313195125869.png)
+![listado de ramas](img/13.png)
 
 ## 13. Arreglar conflicto
 
-![image-20220313195620763](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313195620763.png)
+![arreglar conflicto](img/14.png)
 
 ## 14. Borrar rama
 
-![image-20220313200406969](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313200406969.png)
+![borrar rama](img/15.png)
 
 ## 15. Listado de cambios
 
-![image-20220313200644797](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313200644797.png)
+![listado de cambios](img/16.png)
 
 ## 16. Cuenta de GitHub
 
-![image-20220313201712810](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220313201712810.png)
+![cuenta de github](img/17.png)
 
 ## 17. Uso social de GitHub
 
-![image-20220314112256903](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314112256903.png)
+![uso social](img/18.png)
 
 ## 18. Crear una tabla
 
@@ -84,31 +86,31 @@ git clone https://github.com/Ireealba/masteruah.git
 
 ## 19. Colaboradores
 
-![image-20220314112832750](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314112832750.png)
+![colaboradores](img/19.png)
 
 ## 20. Crear una organización
 
-![image-20220314113533478](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314113533478.png)
+![organizacion](img/20.png)
 
 ## 21. Crear equipos
 
-![image-20220314114254465](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314114254465.png)
+![equipos](img/21.png)
 
-![image-20220314114647990](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314114647990.png)
+![equippos](img/22.png)
 
 ## 22. Crear un index.html
 
-![image-20220314115708717](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314115708717.png)
+![index](img/23.png)
 
 ## 23. Crear Pull-requests
 
-![image-20220314122842572](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314122842572.png)
+![pullrequest1](img/24.png)
 
-![image-20220314122923803](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314122923803.png)
+![pullrequest2](img/25.png)
 
 ## 24. Gestionar Pull-request
 
-![image-20220314123045490](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314123045490.png)
+![gestionar 1](img/26.png)
 
-![image-20220314123118208](C:\Users\iap23\AppData\Roaming\Typora\typora-user-images\image-20220314123118208.png)
+![gestionar2](img/27.png)
 
